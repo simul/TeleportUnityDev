@@ -27,11 +27,11 @@ MonoBehaviour:
   moveUpdatesPerSecond: 20
   serverSettings:
     requiredLatencyMs: 30
-    detectionSphereRadius: 15
+    detectionSphereRadius: 35
     detectionSphereBufferDistance: 5
     throttleKpS: 0
     backgroundMode: 1
-    BackgroundColour: {r: 0.66816485, g: 0.78324556, b: 0.8584906, a: 0}
+    BackgroundColour: {r: 0.4513617, g: 0.58885396, b: 0.5943396, a: 0}
     isStreamingGeometry: 1
     geometryTicksPerSecond: 2
     geometryBufferCutoffSize: 1048576
@@ -49,7 +49,7 @@ MonoBehaviour:
     cullQuadIndex: -1
     targetFPS: 60
     idrInterval: 0
-    videoCodec: 2
+    videoCodec: 1
     rateControlMode: 2
     averageBitrate: 40000000
     maxBitrate: 80000000

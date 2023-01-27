@@ -72,6 +72,8 @@
     <Compile Include="Assets\Teleport\Scripts\Editor\Teleport_HeadGizmo.cs" />
     <Compile Include="Assets\Teleport\Scripts\Editor\ResourceWindow.cs" />
     <Compile Include="Assets\Teleport\Scripts\Editor\OutputWindow.cs" />
+    <Compile Include="Assets\Teleport\Scripts\Editor\TextCanvasEditor.cs" />
+    <Compile Include="Assets\Teleport\Scripts\Editor\TextCanvasGizmo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
