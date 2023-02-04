@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: TeleportSettings
   m_EditorClassIdentifier: 
   cachePath: E:/Code/TeleportUnity/teleport_cache
-  TagToStream: TeleportStreamable
   highlightStreamables: 0
   highlightStreamableColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
   highlightNonStreamables: 0
