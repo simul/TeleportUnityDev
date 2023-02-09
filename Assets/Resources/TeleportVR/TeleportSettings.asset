@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355e47e37b2db9740b56efb4e09cecec, type: 3}
   m_Name: TeleportSettings
   m_EditorClassIdentifier: 
-  cachePath: E:/Code/TeleportUnity/teleport_cache
+  cachePath: E:/Code/Teleport/TeleportUnity/teleport_cache
   highlightStreamables: 0
   highlightStreamableColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
   highlightNonStreamables: 0
@@ -30,18 +30,18 @@ MonoBehaviour:
     detectionSphereBufferDistance: 5
     throttleKpS: 0
     backgroundMode: 1
-    BackgroundColour: {r: 0.4513617, g: 0.58885396, b: 0.5943396, a: 0}
+    BackgroundColour: {r: 0.06732824, g: 0.49943614, b: 0.8396226, a: 0}
     isStreamingGeometry: 1
     geometryTicksPerSecond: 2
     geometryBufferCutoffSize: 1048576
     confirmationWaitTime: 15
     clientDrawDistanceOffset: 0
-    StreamVideo: 1
+    StreamVideo: 0
     StreamWebcam: 0
-    defaultCaptureCubeTextureSize: 512
+    defaultCaptureCubeTextureSize: 256
     webcamWidth: 128
     webcamHeight: 96
-    videoEncodeFrequency: 2
+    videoEncodeFrequency: 4
     isDeferringOutput: 0
     isCullingCubemaps: 0
     blocksPerCubeFaceAcross: 2
