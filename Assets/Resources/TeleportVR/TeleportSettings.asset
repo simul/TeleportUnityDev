@@ -17,8 +17,7 @@ MonoBehaviour:
   highlightStreamableColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
   highlightNonStreamables: 0
   highlightNonStreamableColour: {r: 0.5, g: 1, b: 1, a: 0.1}
-  listenPort: 10500
-  discoveryPort: 10600
+  signalingPorts: 10600
   connectionTimeout: 25000
   clientIP: 
   certPath: 
@@ -26,17 +25,15 @@ MonoBehaviour:
   moveUpdatesPerSecond: 20
   serverSettings:
     requiredLatencyMs: 30
-    detectionSphereRadius: 35
+    detectionSphereRadius: 10
     detectionSphereBufferDistance: 5
     throttleKpS: 0
-    backgroundMode: 1
-    BackgroundColour: {r: 0.06732824, g: 0.49943614, b: 0.8396226, a: 0}
     isStreamingGeometry: 1
     geometryTicksPerSecond: 2
     geometryBufferCutoffSize: 1048576
     confirmationWaitTime: 15
     clientDrawDistanceOffset: 0
-    StreamVideo: 0
+    StreamVideo: 1
     StreamWebcam: 0
     defaultCaptureCubeTextureSize: 256
     webcamWidth: 128
