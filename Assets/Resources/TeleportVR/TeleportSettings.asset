@@ -22,7 +22,7 @@ MonoBehaviour:
   clientIP: 
   certPath: 
   privateKeyPath: 
-  moveUpdatesPerSecond: 20
+  moveUpdatesPerSecond: 11
   serverSettings:
     requiredLatencyMs: 30
     detectionSphereRadius: 10

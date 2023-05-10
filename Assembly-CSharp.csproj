@@ -102,6 +102,7 @@
     <Compile Include="Assets\Teleport\Scripts\GeometrySource.cs" />
     <Compile Include="Assets\Teleport\Examples\Scripts\Components\ExampleMotion.cs" />
     <Compile Include="Assets\Teleport\Scripts\GeometryStreamingService.cs" />
+    <Compile Include="Assets\Teleport\Examples\Scripts\Components\Translate.cs" />
     <Compile Include="Assets\Teleport\Scripts\Debug\TeleportLog.cs" />
     <Compile Include="Assets\Teleport\Scripts\RenderPipeline\Runtime\TeleportLighting.cs" />
     <Compile Include="Assets\AnimationTutorial\Scripts\TreasureChest.cs" />
