@@ -78,6 +78,7 @@
     <Compile Include="Assets\Teleport\Scripts\Components\StreamableProperties.cs" />
     <Compile Include="Assets\Teleport\Scripts\Components\Singletons\Monitor.cs" />
     <Compile Include="Assets\Teleport\Scripts\Components\TeleportMouseLook.cs" />
+    <Compile Include="Assets\Teleport\Examples\Scripts\Components\DropGrabbable.cs" />
     <Compile Include="Assets\Teleport\Examples\Scripts\Components\Rotate.cs" />
     <Compile Include="Assets\Teleport\Scripts\RenderPipeline\Runtime\GeneratedTexture.cs" />
     <Compile Include="Assets\Teleport\Scripts\Settings\ServerSettings.cs" />

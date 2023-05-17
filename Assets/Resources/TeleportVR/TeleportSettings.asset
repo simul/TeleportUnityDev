@@ -17,7 +17,7 @@ MonoBehaviour:
   highlightStreamableColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
   highlightNonStreamables: 0
   highlightNonStreamableColour: {r: 0.5, g: 1, b: 1, a: 0.1}
-  signalingPorts: 10600
+  signalingPorts: 8080,80,10600
   connectionTimeout: 25000
   clientIP: 
   certPath: 
@@ -61,7 +61,7 @@ MonoBehaviour:
     perspectiveFOV: 130
     useDynamicQuality: 0
     bandwidthCalculationInterval: 5000
-    isStreamingAudio: 1
+    isStreamingAudio: 0
     isReceivingAudio: 0
     debugStream: 0
     debugNetworkPackets: 0
