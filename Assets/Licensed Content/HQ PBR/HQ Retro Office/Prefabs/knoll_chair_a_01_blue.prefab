@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4530882910976244}
   - component: {fileID: 33728115777118386}
   - component: {fileID: 23885431148490054}
+  - component: {fileID: 1781420944781128779}
   m_Layer: 0
   m_Name: knoll_chair_a_01_blue
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1781420944781128779
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147469673493342}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.81279993, y: 0.7505829, z: 0.8046014}
+  m_Center: {x: -0.00000002980232, y: 0.37549463, z: 0.0041106935}
