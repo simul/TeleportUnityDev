@@ -15,7 +15,7 @@ MonoBehaviour:
   cachePath: E:/Code/Teleport/TeleportUnity/teleport_cache
   _TagToStream: TeleportStreamable
   highlightStreamables: 1
-  highlightStreamableColour: {r: 0, g: 0, b: 0, a: 0.1}
+  highlightStreamableColour: {r: 0.23270439, g: 0.25284225, b: 0.3490566, a: 0.1}
   highlightNonStreamables: 0
   highlightNonStreamableColour: {r: 0.5, g: 1, b: 1, a: 0.1}
   signalingPorts: 8080,80,10600
@@ -68,7 +68,7 @@ MonoBehaviour:
     debugStream: 0
     debugNetworkPackets: 0
     debugControlPackets: 0
-    pipeDllOutputToUnity: 1
+    pipeDllOutputToUnity: 0
     estimatedDecodingFrequency: 10
     maximumTextureSize: 1024
     useCompressedTextures: 1
@@ -137,6 +137,6 @@ MonoBehaviour:
     controlPath: keyboard.*/d
   defaultScene: Boardroom
   additiveScene: 
-  webcam: Mmhmm 64
+  webcam: HD Web Camera
   renderMainCamera: 1
   colorSpace: 1
